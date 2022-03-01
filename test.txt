@@ -1,0 +1,2 @@
+Doritos,4.2,0
+CocaCola,3,10

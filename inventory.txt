@@ -1,0 +1,7 @@
+Doritos,4.2,10
+CocaCola,3,10
+RedBull,5,10
+Monster,5.3,10
+M&Ms,3.5,10
+Snickers,2.5,10
+KitKat,2.1,9
